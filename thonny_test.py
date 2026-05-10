@@ -9,3 +9,4 @@ for h in student_heights:
   total_height += h
 
 print(f"Total height is {total_height}")
+print(f"Just to test claude skills")
